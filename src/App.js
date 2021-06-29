@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 // import TodoList from "./component/todoList";
 import Todo from "./component/todo";
